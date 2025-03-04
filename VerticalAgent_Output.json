@@ -1,24 +1,106 @@
 [
     {
-        "Industry": "Healthcare",
-        "Domain": "Telemedicine",
-        "Description": "Telemedicine involves the remote delivery of healthcare services using technology, such as video conferencing, mobile apps, and remote patient monitoring devices. It allows patients to access medical care without physically visiting a healthcare facility.",
-        "KeyPlayers": "Key players include a mix of established healthcare providers (hospitals, clinics), technology companies specializing in telehealth platforms, and insurance providers.  Specific company names are not consistently listed across sources, but major players are likely to be those with significant investments in telehealth infrastructure and services.",
-        "MarketSize": "Market size estimates vary widely, ranging from USD 100 billion to over USD 400 billion in the coming years, with a compound annual growth rate (CAGR) between 11.5% and 24.96%.",
-        "MarketTrends": "Key trends include increasing adoption driven by patient demand, technological advancements (AI, IoT integration), expansion of telehealth services beyond basic consultations (e.g., remote monitoring, mental health support), and integration with electronic health records (EHRs).",
-        "Challenges": "Challenges include regulatory hurdles and reimbursement issues, ensuring data privacy and security, overcoming technological barriers for patients (e.g., digital literacy, access to technology), addressing concerns about the quality of care in virtual settings, and managing liability and malpractice concerns.",
-        "Opportunities": "Opportunities exist in expanding access to care in underserved areas, improving patient engagement and adherence to treatment plans, reducing healthcare costs through efficient resource allocation, and developing innovative telehealth solutions tailored to specific patient needs and clinical areas.",
-        "important_keywords": "telehealth, telemedicine, remote patient monitoring, virtual care, mHealth, digital health, remote diagnostics, video conferencing, AI in healthcare, IoT in healthcare"
+        "domain_name": "Education",
+        "domain_description": "GHRCEM is a college of engineering and management, offering educational services and managing student data.",
+        "keywords": [
+            "education",
+            "college",
+            "engineering",
+            "management",
+            "student",
+            "records",
+            "higher education"
+        ],
+        "confidence_score": 0.99
     },
     {
-        "Industry": "Healthcare",
-        "Domain": "Telemedicine",
-        "Description": "Telemedicine uses technology to deliver healthcare services remotely, improving access to care and convenience for patients.",
-        "KeyPlayers": "The market is fragmented, with many players.  Some prominent companies include Teladoc Health, Amwell, MDLIVE, and various hospital systems integrating telemedicine solutions.  The US has the highest concentration of investment in this space.",
-        "MarketSize": "Market size estimates vary widely, ranging from $100 billion to over $400 billion depending on the source and year.  Growth is expected to be substantial in the coming years.",
-        "MarketTrends": "Increasing adoption of digital health technologies, expansion of telehealth services beyond initial pandemic use, integration of AI and machine learning for better diagnostics and remote patient monitoring, and a focus on chronic disease management are key trends.",
-        "Challenges": "Regulatory hurdles, reimbursement issues, ensuring data security and privacy, addressing digital literacy disparities, and maintaining the quality of care remotely are major challenges.",
-        "Opportunities": "Expansion into underserved areas, improved access to specialists, cost reduction for healthcare systems, development of innovative telehealth platforms, and integration with wearable technology present significant opportunities.",
-        "important_keywords": "telemedicine, telehealth, remote patient monitoring, virtual care, digital health, RPM, chronic disease management, AI in healthcare"
+        "domain_name": "Education",
+        "domain_description": "G H Raisoni College of Engineering and Management is an educational institution offering engineering and management programs.  It maintains student data including personal and educational records.",
+        "keywords": [
+            "Education",
+            "Engineering",
+            "Management",
+            "College",
+            "University",
+            "Student",
+            "Data",
+            "Records",
+            "Pune",
+            "Nagpur"
+        ],
+        "confidence_score": 0.99
+    },
+    {
+        "domain_name": "Technology",
+        "domain_description": "Data migration services are a key component of the technology sector, focusing on the transfer and transformation of data between systems.",
+        "keywords": [
+            "data migration",
+            "data services",
+            "technology",
+            "SaaS",
+            "data transformation",
+            "database migration",
+            "cloud migration"
+        ],
+        "confidence_score": 0.95
+    },
+    {
+        "domain_name": "Technology",
+        "domain_description": "Datamatter provides data migration services, a key aspect of information technology.",
+        "keywords": [
+            "data migration",
+            "data services",
+            "technology",
+            "SaaS",
+            "data management"
+        ],
+        "confidence_score": 0.95
+    },
+    {
+        "domain_name": "Technology: Data Migration Services",
+        "domain_description": "Datamatter provides end-to-end data migration solutions as a SaaS offering, focusing on streamlining business operations and data management for clients.",
+        "keywords": [
+            "data migration",
+            "data management",
+            "SaaS",
+            "cloud",
+            "business operations",
+            "data transformation",
+            "data analysis",
+            "IT services"
+        ],
+        "confidence_score": 0.95
+    },
+    {
+        "domain_name": "Technology: Data Migration Services",
+        "domain_description": "Datamatter provides services related to data migration, encompassing various stages from planning and execution to reporting.  They offer a comprehensive solution for transferring data between different systems and formats.",
+        "keywords": [
+            "data migration",
+            "data migration services",
+            "data transfer",
+            "database migration",
+            "cloud migration",
+            "data warehousing",
+            "data integration",
+            "SaaS",
+            "technology",
+            "IT services"
+        ],
+        "confidence_score": 0.98
+    },
+    {
+        "domain_name": "Technology: Data Migration Services",
+        "domain_description": "Datamatter provides end-to-end data migration solutions and services, specializing in software and SaaS offerings to streamline data analysis and management for businesses.",
+        "keywords": [
+            "data migration",
+            "data management",
+            "data analysis",
+            "SaaS",
+            "software",
+            "technology",
+            "migration services",
+            "Datamatter"
+        ],
+        "confidence_score": 0.98
     }
 ]

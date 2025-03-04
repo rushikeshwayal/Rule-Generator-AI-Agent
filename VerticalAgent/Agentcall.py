@@ -1,31 +1,21 @@
-from config import Vertical
+from config import CustomAgent
+from prompt import VerticalPrompt
 import json
 import os
 
 # # initialize Agent
-VerticalAgent = Vertical()
+VerticalAgent = CustomAgent()
 
-# # get the list of models
-models = VerticalAgent.model_list()
-print(models)
 
-# # get the list of output parsers
-output_parsers = VerticalAgent.output_parser_list()
-print(output_parsers)
 
-# open json file get prompt
-with open('VerticalAgent\Prompt.json') as file:
-    data = json.load(file)
+# initialize prompt
+prompt = VerticalPrompt()
 
-user_input = data[0].get('user_input')
-system_input = data[0].get('system_msg')
-print(user_input)  # Ensure this is not None
-print("=======")
-print(system_input)
+user_input=prompt.user_prompt(client_name="Datamatter",client_description="We Are Data migration service providing company provide buch of servises releted to data migration",website_content="https://www.datamatter.tech/")
+system_input=prompt.system_prompt()
 
-# get the response from the agent
 
-response = VerticalAgent.invoke_vertical(
+response = VerticalAgent.invoke_agent(
     user_input= user_input,
     system_input= system_input,
     model_name="google",
